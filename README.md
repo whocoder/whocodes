@@ -1,4 +1,5 @@
 ### 👾 whocodes (jarromie)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3WD6SX)
 
 ___
 
@@ -26,12 +27,15 @@ ___
 * [GitHub](https://github.com/whocodes) (whocodes)
 * [reddit](https://reddit.com/u/jarromie) (u/jarromie)
 * [reddit](https://reddit.com/u/whocodes) (u/whocodes)
-* [Twitter](https://twitter.com/jarr0mie)
-* [Discord](https://discordapp.com/users/552672975124561932)
-* [Mastodon](https://mastodon.social/@jarromie)
+* [Twitter](https://twitter.com/jarr0mie) (@jarr0mie)
+* [Discord](https://discordapp.com/users/552672975124561932) (jarromie)
+* [Mastodon](https://mastodon.social/@jarromie) (@jarromie@mastodon.social)
 
 i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com). business inquiries should be directed to [admin@whocodes.tech](mailto:admin@whocodes.tech).
 
+**if you're able to make use of any of the projects i work on, and you'd like to support my current work or future endevours, consider [buying me a coffee (or 🦀RuneScape membership🦀)](https://ko-fi.com/D1D3WD6SX) — any and all support is appreciated!**
+
+
 ___
 
-feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/).
+feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/). **if you're working on projects utilizing [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins) and would like a free account on my Gitea instance (with unlimited private or public repositories and a wide range of other features), reach out and let me know! i'd love to help out.**
