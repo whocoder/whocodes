@@ -24,13 +24,13 @@ ___
 
 * [GitHub](https://github.com/jarromie) (jarromie)
 * [GitHub](https://github.com/whocodes) (whocodes)
-* [reddit](https://reddit.com/u/jarromie) (/u/jarromie)
-* [reddit](https://reddit.com/u/jarromie) (/u/whocodes)
+* [reddit](https://reddit.com/u/jarromie) (u/jarromie)
+* [reddit](https://reddit.com/u/whocodes) (u/whocodes)
 * [Twitter](https://twitter.com/jarr0mie)
 * [Discord](https://discordapp.com/users/552672975124561932)
 * [Mastodon](https://mastodon.social/@jarromie)
 
-i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com).
+i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com). business inquiries should be directed to [admin@whocodes.tech](mailto:admin@whocodes.tech).
 
 ___
 
